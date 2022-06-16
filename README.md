@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Abhyudaya Yadav, a Computer Science & Engineering Undergrad currently studying in Pre-Final Year pursuing Bachelor of Technology from Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G). 
 
 <!--
 **Abhyudaya-1999/Abhyudaya-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
