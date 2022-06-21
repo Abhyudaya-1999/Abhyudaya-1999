@@ -8,6 +8,18 @@ My Skills include :
 * Python 
 * Git/Github
 
+One can call me a 'Pythoneer' but I am bit more in Research and Development Field. I previously worked on some Machine Learning Projects and would like to work on some more to improve my knowledge and skills.
+
+Connect with me on :
+
+* Linkedin : https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/
+* HackerRank : https://www.hackerrank.com/abhyudayayadav07
+* HackerEarth : https://www.hackerearth.com/@abhyudayayadav07
+* Codechef : https://www.codechef.com/users/starprince007
+* Codeforces : https://codeforces.com/profile/Starprince07
+
+
+
 <!--
 **Abhyudaya-1999/Abhyudaya-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
