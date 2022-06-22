@@ -19,7 +19,7 @@ Connect with me on :
 :large_blue_circle: [HackerEarth](https://www.hackerearth.com/@abhyudayayadav07)<br>
 📫 [Codechef](https://www.codechef.com/users/starprince007)<br>
 :cyclone: [CodeForces](https://codeforces.com/profile/Starprince07)<br>
-[![Gmail Badge](https://img.shields.io/badge/-abhyudayayadav1999@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhyudayayadav1999@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-abhyudayayadav1999@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhyudayayadav1999@gmail.com)
 
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=Abhyudaya-1999&count_private=true&show_icons=true&theme=radical)
 
