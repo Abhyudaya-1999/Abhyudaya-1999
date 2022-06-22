@@ -14,8 +14,7 @@ One can call me a 'Pythoneer' but I am bit more in Research and Development Fiel
 
 Connect with me on :
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbhyudayaYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)]
-(https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)
+![Linkedin Badge](https://img.shields.io/badge/-AbhyudayaYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)
 :cyclone: [HackerRank](https://www.hackerrank.com/abhyudayayadav07/)<br>
 :large_blue_circle: [HackerEarth](https://www.hackerearth.com/@abhyudayayadav07)<br>
 📫 [Codechef](https://www.codechef.com/users/starprince007)<br>
