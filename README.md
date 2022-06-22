@@ -15,10 +15,11 @@ One can call me a 'Pythoneer' but I am bit more in Research and Development Fiel
 Connect with me on :
 
 📫 [Linkedin](https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)<br>
-:cyclone: [Website](https://www.hackerrank.com/abhyudayayadav07/) <br>
-* HackerEarth : https://www.hackerearth.com/@abhyudayayadav07
-* Codechef : https://www.codechef.com/users/starprince007
-* Codeforces : https://codeforces.com/profile/Starprince07
+:cyclone: [HackerRank](https://www.hackerrank.com/abhyudayayadav07/)<br>
+:large_blue_circle: [HackerEarth](https://www.hackerearth.com/@abhyudayayadav07)<br>
+📫 [Codechef](https://www.codechef.com/users/starprince007)<br>
+:cyclone: [CodeForces](https://codeforces.com/profile/Starprince07)<br>
+:email:  abhyudayayadav1999@gmail.com
 
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=Abhyudaya-1999&count_private=true&show_icons=true&theme=radical)
 
