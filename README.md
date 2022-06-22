@@ -1,4 +1,6 @@
-### Hi there 👋 This is Abhyudaya Yadav, a Computer Science & Engineering Undergrad currently studying in Pre-Final Year pursuing Bachelor of Technology from Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G). 
+ 
+
+Hi there 👋 This is Abhyudaya Yadav, a Computer Science & Engineering Undergrad currently studying in Pre-Final Year pursuing Bachelor of Technology from Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G). 
 
 My Skills include :
 * C/C++
@@ -18,7 +20,7 @@ Connect with me on :
 * Codechef : https://www.codechef.com/users/starprince007
 * Codeforces : https://codeforces.com/profile/Starprince07
 
-
+![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=Abhyudaya-1999&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **Abhyudaya-1999/Abhyudaya-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
