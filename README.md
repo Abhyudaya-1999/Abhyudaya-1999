@@ -14,7 +14,7 @@ One can call me a 'Pythoneer' but I am bit more in Research and Development Fiel
 
 Connect with me on :
 
-📫 [Linkedin]((https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)/) <br>
+📫 [Linkedin](https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/)<br>
 * HackerRank : https://www.hackerrank.com/abhyudayayadav07
 * HackerEarth : https://www.hackerearth.com/@abhyudayayadav07
 * Codechef : https://www.codechef.com/users/starprince007
