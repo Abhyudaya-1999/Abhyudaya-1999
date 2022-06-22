@@ -20,7 +20,7 @@ Connect with me on :
 📫 [Codechef](https://www.codechef.com/users/starprince007)<br>
 :cyclone: [CodeForces](https://codeforces.com/profile/Starprince07)<br>
 [![Gmail Badge](https://img.shields.io/badge/-abhyudayayadav1999@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhyudayayadav1999@gmail.com)]<br>
-[![Twitter Badge](https://img.shields.io/badge/-@AbhyudayaYadav3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=(https://twitter.com/AbhyudayaYadav3)](https://twitter.com/AbhyudayaYadav3)
+[![Twitter Badge](https://img.shields.io/badge/-@AbhyudayaYadav3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/AbhyudayaYadav3/)](https://twitter.com/AbhyudayaYadav3/)<br>
 
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=Abhyudaya-1999&count_private=true&show_icons=true&theme=radical)
 
